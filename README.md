@@ -6,76 +6,22 @@ Tradução completa de Pokémon Red/Blue para português brasileiro no **gen1rec
 
 ## 🎮 Mods Disponíveis
 
-### 🌟 VersãoVermelha v0.2.1 (Tradução Completa)
+### 🌟 VersãoVermelha v0.2.1
+Tradução completa do jogo: história e diálogos em PT-BR + golpes em inglês (padrão competitivo).
 
-**Jogue Pokémon Red 100% em português brasileiro!**
+**[📥 Download](https://github.com/raphabarreto/pokered-ptbr/releases)** • **[📖 Documentação](mods/versaovermelha_moves_en/README.md)**
 
-Tradução híbrida: História e diálogos em PT-BR + Nomes dos golpes em inglês (padrão competitivo).
+### ✅ Exp Share PT-BR v0.1.7
+Compartilhamento de EXP traduzido para português.
 
-- 📥 **Download:** [versaovermelha-moves-en-0.2.1.zip](https://github.com/raphabarreto/pokered-ptbr/releases)
-- 🔗 **Base:** [Hyd~Traduções v1.3.1](https://www.romhacking.net.br/) + Adaptação para gen1recomp
-- 📝 **README:** [Documentação completa](mods/versaovermelha_moves_en/README.md)
-- ✅ **Status:** Completo e testado
-
-#### ✨ Features:
-
-✅ **História & Diálogos:** 100% Português Brasileiro  
-✅ **Nomes dos Golpes:** Inglês (TACKLE, SURF, THUNDERBOLT, etc.)  
-✅ **Texto de Batalha:** Português (golpes permanecem em inglês)  
-✅ **Itens & Cidades:** Português  
-✅ **NPCs & Treinadores:** Português  
-✅ **Efeitos de Status:** Inglês (PSN, BRN, PAR, FRZ, SLP)
-
-#### 🎯 Por que golpes em inglês?
-
-- **Consistente** com a terminologia competitiva de Pokémon
-- **Melhor para speedrunners e streamers** - padrão internacional
-- **Comunicação multiplayer facilitada** - todos entendem "Surf" e "Earthquake"
-- **Visual profissional** - combina com a cena competitiva moderna
-- **Previne overflow de texto** - nomes curtos cabem melhor na UI de batalha
-
-#### 🎮 Exemplos:
-
-**Texto de Batalha:**
-- ✅ "PIKACHU usou THUNDERBOLT!" (nome do golpe em inglês)
-- ✅ "RATTATA foi envenenado!" (status em português)
-- ✅ "CHARIZARD teve EARTHQUAKE inabilitado!" (mix dos dois)
-
-**Diálogos:**
-- ✅ 100% Português - "Olá! Bem-vindo ao mundo dos POKéMON!"
+**[📥 Download](https://github.com/raphabarreto/pokered-ptbr/releases)** • **[📖 Documentação](mods/exp_share_ptbr/README.md)**
 
 ---
 
-## 🎮 Mods de Gameplay
+### 🚧 Em Breve
+Running Shoes • Repel Reuse • Quality of Life • Wilds of Kanto • Modern Bag
 
-### ✅ Exp Share (PT-BR) v0.1.7
-**Compartilhamento de EXP para todo o grupo**
-
-Tradução completa do mod de EXP Share para português brasileiro.
-
-- 📥 **Download:** [exp_share-ptbr-0.1.7.zip](https://github.com/raphabarreto/pokered-ptbr/releases)
-- 🔗 **Original:** [ShaneMcGovernIE/exp_share](https://github.com/ShaneMcGovernIE/exp_share)
-- 📝 **README:** [Documentação completa](mods/exp_share_ptbr/README.md)
-- ✅ **Status:** Completo e testado
-
-**O que foi traduzido:**
-- ✅ Menu OPTIONS: "COMPART. EXP" e "COMPART. ÚNICO"
-- ✅ Mensagem de batalha: "EXP compartilhado entre o grupo!"
-- ✅ Modos: OFF / GEN 1 / GEN 5+ / BALANCED / AVERAGE
-
----
-
-### 🚧 Mods Futuros
-
-Estamos planejando traduzir:
-- Running Shoes
-- Repel Reuse Prompt
-- Quality of Life
-- Wilds of Kanto
-- Trainer Rematch
-- Modern Bag
-
-Sugestões? [Abra uma issue](../../issues)!
+[Sugestões? Abra uma issue!](../../issues)
 
 ---
 
