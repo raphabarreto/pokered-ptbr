@@ -1,0 +1,16 @@
+{
+  "id": "versaovermelha-moves-en",
+  "name": "VersãoVermelha (Moves in English)",
+  "version": "0.2.1 (2026-08-11)",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 9999,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": ["CRYSTAL_251"],
+  "description": "Brazilian Portuguese translation with English move names. Perfect for competitive players and streamers who want PT-BR story with international move terminology. Based on Hyd~Traduções v1.3.1.",
+  "github": "raphabarreto/pokered-ptbr"
+}
