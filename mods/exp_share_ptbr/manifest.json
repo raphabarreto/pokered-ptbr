@@ -1,0 +1,25 @@
+{
+  "id": "exp_share_ptbr",
+  "name": "Exp Share (PT-BR)",
+  "version": "0.1.7-ptbr",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": ["exp_share"],
+  "incompatible": [],
+  "experimental": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Compartilhamento de EXP para o grupo todo via menu OPTIONS: estilo Gen 1 (Exp. All) ou Gen 5+, com uma única mensagem ao invés de uma por Pokémon. Traduzido para PT-BR.",
+  "github": "ShaneMcGovernIE/exp_share"
+}

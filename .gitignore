@@ -1,0 +1,38 @@
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.app
+
+# Keep packs folder but ignore contents initially
+!packs/
+!packs/*.zip
+!packs/.gitkeep
