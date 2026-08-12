@@ -438,30 +438,3 @@ end
 
 
 end
-
-
-  -------------------------------------------------------------------------
-  -- Dynamic string translation for other mods
-  -------------------------------------------------------------------------
-  
-  -- Wrap the Strings function to intercept and translate
-  local originalStrings = Strings
-  Strings = function(key)
-    local result = originalStrings(key)
-    
-    -- Translate common mod messages
-    if type(result) == "string" then
-      result = result:gsub(" gained with EXP%.SHARE", " ganhou com COMPART.EXP")
-      result = result:gsub("gained with EXP%.SHARE", "ganhou com COMPART.EXP") 
-      result = result:gsub(" with EXP%.SHARE", " com COMPART.EXP")
-    end
-    
-    return result
-  end
-  
-  -- Also add direct string overrides for known mod strings
-  mod.content.strings:override("gained with EXP.SHARE", "ganhou com COMPART.EXP")
-  mod.content.strings:override(" gained with EXP.SHARE", " ganhou com COMPART.EXP")
-  mod.content.strings:override(" with EXP.SHARE", " com COMPART.EXP")
-  
-  mod.log:info("Dynamic string translation enabled")

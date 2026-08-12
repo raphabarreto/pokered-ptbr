@@ -12,5 +12,5 @@
   "optional_dependencies": [],
   "conflicts": ["CRYSTAL_251"],
   "description": "Brazilian Portuguese translation with English move names. Perfect for competitive players and streamers who want PT-BR story with international move terminology. Based on Hyd~Traduções v1.3.1.",
-  "github": "raphabarreto/pokered-ptbr"
+  "github": "raphabarreto/versaovermelha-moves-en"
 }

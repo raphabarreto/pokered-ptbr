@@ -2,6 +2,13 @@
 
 All notable changes to Pokémon Red PT-BR will be documented in this file.
 
+## [0.2.1] - 2026-08-12
+
+### Fixed
+- **VersãoVermelha:** Corrigido problema de carregamento onde o mod não aplicava as traduções
+  - Sincronizado código com repositório standalone que funciona corretamente
+  - ZIP agora carrega traduções normalmente no gen1recomp v0.1.79+
+
 ## [0.1.0] - 2026-08-12
 
 ### 🎉 Initial Release - Unified Collection
