@@ -81,23 +81,28 @@ Sugestões? [Abra uma issue](../../issues)!
 
 ## 📥 Como Instalar
 
-### Quick Install (Recomendado)
+### 🚀 Via Mod Index (Mais Fácil!)
+
+1. Abra o **gen1recomp**
+2. Vá em **MODS** → **FIND MODS** (botão de lupa)
+3. Clique em **Indexes** (botão de engrenagem)
+4. Clique em **"+"** para adicionar um index
+5. Cole: `raphabarreto/pokered-ptbr`
+6. **Os mods aparecerão automaticamente na lista!**
+7. Clique em **Install** nos mods desejados
+8. **Enable** (toggle ON) e reinicie o jogo
+
+### 📦 Download Manual (Alternativa)
 
 1. Vá para [Releases](https://github.com/raphabarreto/pokered-ptbr/releases)
 2. **Baixe os mods desejados:**
-   - `versaovermelha-moves-en.zip` (tradução completa do jogo)
+   - `versaovermelha-moves-en-0.2.1.zip` (tradução completa do jogo)
    - `exp_share-ptbr-0.1.7.zip` (opcional - mod de EXP Share)
 3. Abra o **gen1recomp**
 4. Vá em **MODS** → **Import mod .zip**
 5. Importe cada arquivo `.zip` que você baixou
 6. **Enable** os mods (toggle ON)
 7. **Reinicie o jogo** (feche e abra)
-
-### Manual Install
-
-1. Clone ou baixe este repositório
-2. Compacte a pasta do mod desejado (ex: `mods/versaovermelha_moves_en/`)
-3. Siga os passos 3-7 acima
 
 ---
 
