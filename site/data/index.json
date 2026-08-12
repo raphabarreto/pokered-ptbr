@@ -1,4 +1,12 @@
 {
+  "schema_version": 1,
+  "index_meta": {
+    "name": "Pokémon Red PT-BR Mods",
+    "description": "Mods em português brasileiro para gen1recomp",
+    "repository": "raphabarreto/pokered-ptbr",
+    "version": "1.0.0",
+    "last_updated": "2026-08-12"
+  },
   "mods": [
     {
       "id": "versaovermelha_moves_en",
@@ -7,7 +15,7 @@
       "author": "raphabarreto",
       "version": "0.2.1",
       "download_url": "https://github.com/raphabarreto/pokered-ptbr/releases/download/v0.1.0/versaovermelha-moves-en-0.2.1.zip",
-      "game_version": "v0.1.38+",
+      "game_version": ">=0.1.38",
       "category": "translation",
       "tags": ["português", "pt-br", "translation", "full-game"],
       "profile": "gameplay",
@@ -20,14 +28,11 @@
       "author": "raphabarreto",
       "version": "0.1.7",
       "download_url": "https://github.com/raphabarreto/pokered-ptbr/releases/download/v0.1.0/exp_share-ptbr-0.1.7.zip",
-      "game_version": "v0.1.38+",
+      "game_version": ">=0.1.38",
       "category": "gameplay",
       "tags": ["português", "pt-br", "exp-share", "quality-of-life"],
       "profile": "gameplay",
       "priority": 9001
     }
-  ],
-  "repository": "raphabarreto/pokered-ptbr",
-  "index_version": "1.0.0",
-  "last_updated": "2026-08-12"
+  ]
 }
