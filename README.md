@@ -52,49 +52,21 @@ Running Shoes • Repel Reuse • Quality of Life • Wilds of Kanto • Modern 
 
 ---
 
-## ⚙️ Compatibilidade
-
-### ✅ Compatível Com:
-- Audio/Visual mods (SFXMusicReplacement, CryReplacement, etc.)
-- UI mods (gen1_modern_ui, modern_bag, gen3_box, etc.)
-- Outros gameplay mods (trade_evolution_fix, quality_of_life, etc.)
-- **VersãoVermelha + Mods PT-BR** - Funcionam juntos perfeitamente!
-
-### ⚠️ Conflitos Conhecidos:
-- **[CRYSTAL_251](https://github.com/Deftones565/gen1recomp-mod-crystal-251)** - Overhaul completo de Gen II que modifica traduções (conflita com VersãoVermelha)
-- **Exp Share Original (inglês)** - Desabilite antes de usar a versão PT-BR
-- **Outros mods de tradução** - Use apenas uma tradução base por vez
-
-### 💡 Dica:
-Os mods deste repositório já têm **prioridade alta** (9000+) configurada para garantir compatibilidade máxima.
-
----
-
 ## 🐛 Troubleshooting
 
-**Problema:** Mod não carrega / Textos em inglês  
-**Solução:**
-1. Verifique se o mod está **habilitado** (toggle ON no menu MODS)
-2. **Reinicie o gen1recomp** completamente (feche e abra)
-3. Confirme que não há outro mod de tradução conflitante ativo
-4. Verifique se a versão do gen1recomp é **v0.1.38+**
+**Mod não carrega / Textos em inglês**  
+→ Verifique se está habilitado (toggle ON) e **reinicie o gen1recomp**
 
-**Problema:** Texto cortado ou estranho  
-**Solução:**
-1. Certifique-se de baixar a versão mais recente do mod
-2. Desabilite outros mods que modificam UI/texto temporariamente para testar
-3. Reporte o problema com screenshot em [Issues](../../issues)
+**Texto cortado ou estranho**  
+→ Baixe a versão mais recente e desabilite outros mods de UI/texto
 
-**Problema:** Jogo crasha ao abrir menu  
-**Solução:**
-1. Desabilite todos os mods e habilite um por vez para identificar conflito
-2. Verifique se o arquivo `.zip` não está corrompido (baixe novamente)
-3. Confirme que você importou o mod corretamente (não extraiu antes)
+**Jogo crasha**  
+→ Desabilite todos os mods e habilite um por vez para identificar conflito
 
-**Problema:** VersãoVermelha + CRYSTAL_251 juntos  
-**Solução:**
-- Infelizmente são **incompatíveis** (ambos modificam as mesmas strings)
-- Escolha um dos dois: VersãoVermelha (PT-BR) ou CRYSTAL_251 (Gen II em inglês)
+**VersãoVermelha + CRYSTAL_251**  
+→ Incompatíveis (escolha um dos dois)
+
+[Mais ajuda? Veja o FAQ completo](docs/FAQ.md)
 
 ---
 
@@ -104,19 +76,6 @@ Os mods deste repositório já têm **prioridade alta** (9000+) configurada para
 - [Como Traduzir um Mod](docs/COMO_TRADUZIR_MOD.md)
 - [Como Fazer Release](COMO_FAZER_RELEASE.md)
 - [Perguntas Frequentes](docs/FAQ.md)
-
----
-
-## 🛠️ Contribuindo
-
-Quer ajudar a traduzir mais mods? Veja o guia [COMO_TRADUZIR_MOD.md](docs/COMO_TRADUZIR_MOD.md)!
-
-**Processo:**
-1. Fork este repositório
-2. Escolha um mod para traduzir
-3. Traduza apenas as **strings de texto** (não mexa na lógica)
-4. Teste no jogo
-5. Abra um Pull Request
 
 ---
 
