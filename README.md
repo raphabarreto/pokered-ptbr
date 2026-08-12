@@ -1,19 +1,19 @@
 # Pokémon Red PT-BR 🇧🇷
 
-Tradução completa e mods de gameplay em português brasileiro para **gen1recomp**.
+Tradução completa de Pokémon Red/Blue para português brasileiro no **gen1recomp**.
 
 ---
 
-## 🌟 Tradução Completa do Jogo
+## 🎮 Mods Disponíveis
 
-### VersãoVermelha (Moves in English)
+### 🌟 VersãoVermelha v0.2.1 (Tradução Completa)
 
-**Tradução híbrida:** História e diálogos em PT-BR + Nomes dos golpes em inglês
+**Jogue Pokémon Red 100% em português brasileiro!**
 
-Ideal para jogadores competitivos e streamers que querem a experiência brasileira com terminologia internacional.
+Tradução híbrida: História e diálogos em PT-BR + Nomes dos golpes em inglês (padrão competitivo).
 
+- 📥 **Download:** [versaovermelha-moves-en-0.2.1.zip](https://github.com/raphabarreto/pokered-ptbr/releases)
 - 🔗 **Base:** [Hyd~Traduções v1.3.1](https://www.romhacking.net.br/) + Adaptação para gen1recomp
-- 📥 **Download:** [versaovermelha-moves-en.zip](https://github.com/raphabarreto/pokered-ptbr/releases)
 - 📝 **README:** [Documentação completa](mods/versaovermelha_moves_en/README.md)
 - ✅ **Status:** Completo e testado
 
@@ -53,8 +53,8 @@ Ideal para jogadores competitivos e streamers que querem a experiência brasilei
 
 Tradução completa do mod de EXP Share para português brasileiro.
 
-- 🔗 **Original:** [ShaneMcGovernIE/exp_share](https://github.com/ShaneMcGovernIE/exp_share)
 - 📥 **Download:** [exp_share-ptbr-0.1.7.zip](https://github.com/raphabarreto/pokered-ptbr/releases)
+- 🔗 **Original:** [ShaneMcGovernIE/exp_share](https://github.com/ShaneMcGovernIE/exp_share)
 - 📝 **README:** [Documentação completa](mods/exp_share_ptbr/README.md)
 - ✅ **Status:** Completo e testado
 
